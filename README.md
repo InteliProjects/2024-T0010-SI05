@@ -5,7 +5,7 @@
 
 <br>
 
-# 🙋 2024.1 - Módulo 5:  - Turma 10 - Alliance Consultoria
+# 🙋 2024.1 - Módulo 5: Desenvolvimento de software com a utilização de blockchain  - Turma 10 - Alliance Consultoria
 
 ## 🎯 O objetivo:
 
